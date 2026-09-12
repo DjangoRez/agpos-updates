@@ -1,11 +1,16 @@
 {
-  "version": "1.2.3",
-  "release_date": "2026-09-12",
-  "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.3/AGpos_Setup_v1.2.3.exe",
-  "mandatory": false,
-  "sha256": "5CCA41E68BCAE3BB869D2D472D864F47E1597CB1ACDC66D0AE512754FCFA4BF7",
-  "changelog": [
-    "AGpos v1.2.3 Güncellemesi",
-    "Merkezi LogService ve {app}\\Logs altyapısı entegre edildi"
-  ]
+    "version":  "1.2.4",
+    "release_date":  "2026-09-13",
+    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.4/AGpos_Setup_v1.2.4.exe",
+    "mandatory":  false,
+    "sha256":  "55c54cb750b25dc57f327ae2e34e77cba2f3278d93ea728b6283aab51d25cda9",
+    "changelog":  [
+                      "AGpos v1.2.4 Güncellemesi",
+                      "Satış Fişi Düzenlemeleri: Parçalı ödemede 0 TL tutarlı ödeme kanalları elendi, çift parantez format hatası giderildi.",
+                      "Raf Etiketi Modülü: 80mm ve 58mm termal rulo desteği, otomatik metin hizalama (Center/WordWrap) ve ters renk (FillRectangle) fiyat bloğu.",
+                      "Güvenlik ve Yönetim: Admin Şifre ve Giriş Güvenliği ile İşlem Denetim ve Log Kayıtları arayüzleri güncellendi.",
+                      "Denetim Kütüğü: İşlem Denetim ve Log Kayıtları ekranına \u0027Hepsi\u0027 filtreleme seçeneği eklendi.",
+                      "Termal Baskı Standartları: BOM\u0027suz UTF-8 / CP857 kodlama ve kusursuz monospace sütun hizalamaları sağlandı."
+                  ],
+    "signature":  "T6NaZoQf3g93zXG2a6Irs1iBrWZ6RHKlIOyM6+uPXbrKA06yRVoFBPbikzzQ6h2zvH4DXiFFCUWVwQxfCgxTq81Wo+DdbxPUXYYujd1k4ERu+7ZSxUdynionvodD4TgUF/5MJyjWsopcoGIsJ6LmLWLrjLgjLj2tnXcyUMBIpoEVj25N7MWVK6z2/liUcVmVx6kwPwQuW0R9rONb7qrp+GcIfveci6IcPIugOiAPcOVwXTnPVzbPPUzE/X0x1mzrslRiMji17dpMLf2Tlf7QYVBbeDkh+FuNwpmm5K5WUQ7ofyG70ygmXYQyTQ7eTpytQW9BvEiZmia/X8d8p8W+Mw=="
 }
