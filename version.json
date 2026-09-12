@@ -1,8 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.2.3",
   "release_date": "2026-09-12",
-  "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.2/AGpos_Setup_v1.0.2.exe",
+  "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.3/AGpos_Setup_v1.2.3.exe",
   "mandatory": false,
-  "sha256": "82C9FA5255213E1DF4FD0AC658CA1A9741E6A6DB261AF6A5D95E9B573C39958D",
-  "changelog": "AGpos v1.0.2 - Merkezi LogService, {app}\\Logs Klasörü ve Global Çökme/Hata Yakalama Altyapısı."
+  "sha256": "5CCA41E68BCAE3BB869D2D472D864F47E1597CB1ACDC66D0AE512754FCFA4BF7",
+  "changelog": [
+    "AGpos v1.2.3 Güncellemesi",
+    "Merkezi LogService ve {app}\\Logs altyapısı entegre edildi"
+  ]
 }
