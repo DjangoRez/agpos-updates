@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release_date": "2026-09-12",
-  "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v.1.0.1/AGpos_Setup_v1.0.1.exe",
-  "sha256": "6e7ed2ad07b86e9f180f615cf0bc61e66b8247fd7fdda90e14de092dc1ea2e74",
+  "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.2/AGpos_Setup_v1.0.2.exe",
   "mandatory": false,
-  "changelog": "v1.0.1 - Otomatik yeniden başlatma düzeltmesi ve (UI) güncellemesi."
+  "sha256": "82C9FA5255213E1DF4FD0AC658CA1A9741E6A6DB261AF6A5D95E9B573C39958D",
+  "changelog": "AGpos v1.0.2 - Merkezi LogService, {app}\\Logs Klasörü ve Global Çökme/Hata Yakalama Altyapısı."
 }
