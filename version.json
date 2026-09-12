@@ -2,6 +2,7 @@
   "version": "1.0.1",
   "release_date": "2026-09-12",
   "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.0/AGpos_Setup_v1.0.0.exe",
+  "sha256": "sha256:bd41bbbad6e744af65f88f16d4a7cfee85e2d167b85c4987c281d865ef00985c",
   "mandatory": false,
   "changelog": "Güncelleme Sistemi Testi"
 }
