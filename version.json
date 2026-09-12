@@ -1,8 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "release_date": "2026-09-12",
   "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.0/AGpos_Setup_v1.0.0.exe",
   "mandatory": false,
-  "changelog": "AGpos v1.0.0 Kararlı Canlı TEST Başlangıç Sürümü."
-
+  "changelog": "Güncelleme Sistemi Testi"
 }
