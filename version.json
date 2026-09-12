@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "release_date": "2026-09-12",
   "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.0/AGpos_Setup_v1.0.0.exe",
-  "sha256": "2ef82bf37abb63926b989694da00c9d3021fbd95b99d9a0bcf932963d795255c",
+  "sha256": "6E7ED2AD07B86E9F180F615CF0BC61E66B8247FD7FDDA90E14DE092DC1EA2E74",
   "mandatory": false,
-  "changelog": "v1.0.1 - Otomatik yeniden başlatma düzeltmesi ve sürüm güncellemesi."
+  "changelog": "v1.0.1 - Otomatik yeniden başlatma düzeltmesi ve (UI) güncellemesi."
 }
