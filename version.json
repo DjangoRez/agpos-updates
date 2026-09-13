@@ -7,7 +7,7 @@
     "changelog":  [
                       "Satış fişinde ESC/POS CP857 Türkçe karakter desteği (Ş, İ, Ç, Ğ) ve tam hizalama sağlandı.",
                       "Raf etiketinde ters renk (siyah zemin / beyaz metin) fiyat kutusu ve 80mm tam genişlik başlık yerleşimi tamamlandı.",
-                      "17.000+ ürünlü veritabanlarında hızlı açılış, SQLite WAL modu ve sorgu optimizasyonları devreye alındı.",
+                      "Yüksek hacimli veritabanlarında hızlı açılış, SQLite WAL modu ve sorgu optimizasyonları devreye alındı.",
                       "Sistem kararlılık, veritabanı kilit kurtarma ve performans iyileştirmeleri tamamlandı."
                   ],
     "signature":  "YUElNLPfpPjkKcG7D4ILHM8TnUCp4oVmRLEMXoO4nRwvxx7/Gi22x1O49lLXMUm0CiW+ATILURNomxE+OzXe4F+ez5StwGABszcX2jFDxZAiYpwHpCsMKp+7MKtXCBcusyKM7/DZhBL6r/uAaY3IaKa8lD2lcQc7JT32uk+wa8Kg3s4kireKS9GBpyhw9IulEpLdlUzBZmM1eSTELnzVeO1BwPSLYvo067UKdRl3WX/VxgP0hjVG2ctcjEJi8GGRWgcmFUy9yXH45fbJGEkzlctZmugtGfNmrce8YsquwKPFTqyDZnXYrxmtSOcaP9cfXTugNo7pwnuxOcN3Woy5UQ=="
