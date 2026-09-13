@@ -1,12 +1,12 @@
 {
-    "version":  "1.2.7",
+    "version":  "1.2.8",
     "release_date":  "2026-09-13",
-    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.7/AGpos_Setup_v1.2.7.exe",
+    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.8/AGpos_Setup_v1.2.8.exe",
     "mandatory":  false,
-    "sha256":  "7e3057144c0ad86ef66a81882f27709cdfcec90c0cd4f5ab8e02482a434f9c15",
+    "sha256":  "1faac48c8dcd1e7b62c10ff47be09a008f287256a33c86b55dda8b198c8f3928",
     "changelog":  [
-                      "Otomatik yeniden başlatma mimarisi (Supervised watchdog ve postinstall) güçlendirildi.",
-                      "Denetim masasından program kaldırılırken uygulamanın açık kalması engellendi (Mutex ve uninstaller koruması)."
+                      "Döviz kurları (Euro/Dolar) kutularında fare tekerleği (scroll) ile yanlışlıkla değer değişmesi engellendi.",
+                      "Sistem kararlılık ve güvenlik iyileştirmeleri yapıldı."
                   ],
-    "signature":  "fwiGBs6RpKnnXW6BVZ38pu3ou6miaKya1TRwmHPo3wb/N58Iusqva5ozqYRbqHYE9hMvRofIKZ/klGwxtk9Q6QI6I3MfkndylVmqmjt4BIzj7v0ePMZdtO/U5+443FeIiG1PBcf3xkf97yxdt5zMINYpWdEQVy9bRY4LniD6yy+oPP6/7mQDA2P81svWZdBK+2Z4e1W7hvjDkEx3qPZb1NfXYD9gY5kNRecD+eRMefsxTii4k8l/ggcKgzIetlFWZMhFkcVH66LwAyUisbd80fB23yV6NVXgpmdFsey/L4dSrnTm/foq+wsNXWeOw/ELChR42hZJ2eJTU8bbZFmlDA=="
+    "signature":  "IjVEQS6rqyzh48KIckfY5cUId58tji0Z4ieftbz4jQkFAj13ZLbTjLEqwiDhU5DOepUFWV3Ze9i3u4PYb8axmMSdC0OK2Tm0drmbNRXBmoeSwdTZUVLNLlaHzyQYMdoCCTIddDvY4MiQxKr9Y5TXA0Mur9db1spEdJfM75H1hZ8MREFa3iW2B0yo6PKTmSxcgpTlV5KtPRi0vQiZicooJuL/h8bJy4FjsQd5Ojl9eqcV0hLjvaa/9OBcyl2Mbw5J5SU31RK5VBLESWFcpMaXzUkW3HlCyuxVVn4LfJBv2gkXiXIqsDAdP8XpZMk7yvfx0ulsd3zcwX29YP1kjQTFnQ=="
 }
