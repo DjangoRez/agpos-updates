@@ -3,11 +3,11 @@
     "release_date":  "2026-09-13",
     "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.9/AGpos_Setup_v1.2.9.exe",
     "mandatory":  false,
-    "sha256":  "e141dc6cac545a4ab531d88ccaa7ac46893246d280c9e6e570e5a9e49f9307ee",
+    "sha256":  "c6d048d56fb2cd2ebf499e95473fa144eb121e8e80985c1ffaad7f3243983c70",
     "changelog":  [
                       "Döviz kurları (Euro/Dolar) kutularında fare tekerleği (scroll) ile yanlışlıkla değer değişmesi engellendi.",
                       "Modern güncelleme bildirim penceresi (CustomUpdateDialog) eklendi.",
                       "Sistem kararlılık ve güvenlik iyileştirmeleri yapıldı."
                   ],
-    "signature":  "W26RPi+1CnwN/FaVKbcHiYb6zZBte8WmOHVVT6HzmCnUykopqGKsdN8bn5s4GTp55rpoorHQ/5vcGgSMYovpQV026Jme6lV08WhkevknUlsU7a1bhxGVKwXRc5ylTplIxys903oM9+Pi3AueL3RBY6SNchN5KPvAVrSHyUE7TNBKQ/ROPEo3cWVxWL0UOievqhF8ujC/1lZpthVTyiMd2ADc79rmfnLpBU4sxy1l9Zl2VC9PEAw0TFwHKY6BMAe0e7uuq/ucAnEwl0nDH9wbuTgylcD3NCc1cUHs0ZngRNrAQadfmsRlowZNH/uqsT3DqBPg9nC58HreCzJEz8lYQQ=="
+    "signature":  "B5zD8iMaLv1gdquEzOUS1swJiAC9KiYoF3xdGV/7NJhCsgtVvBC/cpNXIT8fz1JJ31C301uDGquI01Un3dzAmtueEn9f0ANZ7MMoj4ikp03T/ekvadLFRYf8EbmhiZu2aln8s8JmD8YV6g2YqyC2BkwQ9SoOUpOAeEUJtdTr78yzEFf1jCFej9lms2Cm985FWvy1wmpE6L6i2VTiABNGQDy7CnOD1IjMLjrLP+T3aKWAlI5DrM7+4ah9J/MSWu4uB+qGwd2qumYIvz8lD++gFDixzbwo1PoT82tq6r7LOy6KA96n2m9IBtdHdmSi1CpGOhFoxfCw1fuxZt9crDtNLw=="
 }
