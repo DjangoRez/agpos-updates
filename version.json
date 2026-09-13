@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.1",
-    "release_date":  "2026-09-13",
-    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.1/AGpos_Setup_v1.0.1.exe",
-    "mandatory":  false,
-    "sha256":  "aeecb44ad913bbc4990ce688912b034af8bde579e57c53c990c184c6e7630733",
-    "changelog":  [
-                      "TEST GÜNCELLEMESİDİR."
-                  ],
-    "signature":  "RZbjN+lk9w0gb+4MlTO3WqhyQjQvNzQMM5oYVqHebhCtb6jNQ4NgVv6NnpSqGf8/ZkOEA2akjXTyTKZuHW7QxGzK3HSXLV4b85SAOKDzY9X1fs6J9BfcvHWoJAayVEzUCaeiy2VKv8UcoqrXMOOQq8IMUJlHbTeseoBN4KDroSKTxsh9qQ3t+4GEKol4m+yatOleb9TdmNyeBUbZ/z5Bf+TXxiUFbZEshbLmYSeisn4MyVDGmKT9vYZR5gF5jKa7g5xWyTRvLB6iBYMqQd5ZiCGAyaT/JNvdp94PyMO/7JnF4CD+9e+ywuH6M8QT7Jcq20EMwtMz0PZOjpLysHktGQ=="
+  "version": "1.0.2",
+  "release_date": "2026-09-13",
+  "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.2/AGpos_Setup_v1.0.2.exe",
+  "mandatory": false,
+  "sha256": "6db4c84b529726c969f57fc941b27853942e5b446618b24c55a70bb01ca72a10",
+  "changelog": [
+    "TEST GÜNCELLEMESİDİR."
+  ],
+  "signature": "t1Byopll7YCInQxultrdUdGA1xBxp2Bv5+JF/1LiygKlSEgCktAsvcfKN7hNoTRJ1l9OuERs3vuWh6rtypxs3HBe0E4jG94v9w7LlTbkd0J/5Ujd5FXHzhxBIGgzNGk6saeXs3erqcgnDiPkSNRibJ/CkxuKCiTt9cwwrOSWo4bB4WYCZ6v8ky+3XPrmrRqnHnDeaiwNAMstIN4V9giSCrzdOplrTAEqu/QvUat7G7F1P9nieXGoAuKBm4+ESvEJj5gtgz8jZPRHdCZDxegbBf121Y740TVVzqE2raACwUuyks1Nzyk6LFB0ULHSpjBX7UhA6XKqYZGsrbdVu82uPg=="
 }
