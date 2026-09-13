@@ -1,0 +1,73 @@
+# =====================================================================
+# AGpos Updates Repository - .gitignore
+# Bu depo sadece version.json manifesti ve resmi dokümantasyonu barındırır.
+# =====================================================================
+
+# 1. Hassas Veriler & Özel Anahtarlar (Private Keys & Secrets)
+*.pem
+*.key
+*.pfx
+*.p12
+*.snk
+*.asc
+*.dat
+*.lic
+*private_key*.xml
+*PrivateKey*.xml
+License_PrivateKey*.xml
+.env
+.env.*
+*token*.txt
+*credential*.json
+
+# 2. Kurulum ve Binary Paketleri (Releases üzerinde barındırılır)
+Output/
+_Output/
+Output*/
+staging/
+*.exe
+*.msi
+*.zip
+*.7z
+*.tar.gz
+*.tmp
+
+# 3. Visual Studio & Derleme Artıkları
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+Mapping.txt
+deobfuscation-maps/
+private-symbols/
+
+# 4. Geçici Dosyalar, İndirme ve Log Artıkları
+*.download
+*.part
+*.crdownload
+*.log
+*.bak
+scratch/
+temp/
+tmp/
+
+# 5. IDE ve Editör Ayarları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 6. İşletim Sistemi Artıkları
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# =====================================================================
+# Beyaz Liste (Asla Yok Sayılmayacak Zorunlu Dosyalar)
+# =====================================================================
+!version.json
+!README.md
