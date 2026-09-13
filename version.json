@@ -5,12 +5,12 @@
     "mandatory":  false,
     "sha256":  "c8e5fba499641971ce506d4733aed9436b4fe091abd9a5e7a5412fcbf1fe5f22",
     "changelog":  [
-                      "SatÄ±ÅŸ fiÅŸinde ESC/POS CP857 TÃ¼rkÃ§e karakter desteÄŸi (Å, Ä°, Ã‡, Ä) ve tam hizalama saÄŸlandÄ±.",
-                      "Raf etiketinde ters renk (siyah zemin / beyaz metin) fiyat kutusu ve 80mm tam geniÅŸlik baÅŸlÄ±k yerleÅŸimi tamamlandÄ±.",
-                      "Raf etiketi modÃ¼lÃ¼nde buton yerleÅŸimi ve Ã¶lÃ§ekleme dengelendi.",
-                      "Para Ã§ekmecesi donanÄ±msal sensÃ¶r (ESC/POS DLE EOT) durum takibi ve fiziksel kapanÄ±ÅŸ kontrolÃ¼ saÄŸlandÄ±.",
-                      "YÃ¼ksek hacimli veritabanlarÄ±nda hÄ±zlÄ± aÃ§Ä±lÄ±ÅŸ, SQLite WAL modu ve sorgu optimizasyonlarÄ± devreye alÄ±ndÄ±.",
-                      "Sistem kararlÄ±lÄ±k, veritabanÄ± kilit kurtarma ve performans iyileÅŸtirmeleri tamamlandÄ±."
+                      "Satış fişinde ESC/POS CP857 Türkçe karakter desteği (Ş, İ, Ç, Ğ) ve tam hizalama sağlandı.",
+                      "Raf etiketinde ters renk (siyah zemin / beyaz metin) fiyat kutusu ve 80mm tam genişlik başlık yerleşimi tamamlandı.",
+                      "Raf etiketi modülünde buton yerleşimi ve ölçekleme dengelendi.",
+                      "Para çekmecesi donanımsal sensör (ESC/POS DLE EOT) durum takibi ve fiziksel kapanış kontrolü sağlandı.",
+                      "Yüksek hacimli veritabanlarında hızlı açılış, SQLite WAL modu ve sorgu optimizasyonları devreye alındı.",
+                      "Sistem kararlılık, veritabanı kilit kurtarma ve performans iyileştirmeleri tamamlandı."
                   ],
     "signature":  "aMJwWwrMs09MZQkqDgkSDRSemUGxZL3et/gKj8BW77zYeQlcURI48yz11fpNMu8+xWAwdfnD9VE/j+xZ1h2fO/ohLLaL1vZMZXmjHwUJEi+dz1QUgVzgin2xJfXxXWWxa0nOdDUg3swY9Dp6dl9GQjAiDr2rwwz/ZBAr+veuLv97Y0qzULyLUIbFKruUvKTguWRhWb7VeoGyp3ACDlBKi5PbkSxVL5XUx3ctFKXAjYih8nrdHGfTEVWSfUaCo+qZHEnHN1ztwS8NOThr6sVcwnHZRh330/u7ZRS09Ck7UT4ZRXhugzHGOuaCJ3IZn3yU1KP11heq4W91sucsZkZAKw=="
 }
