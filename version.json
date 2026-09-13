@@ -1,12 +1,12 @@
 {
-  "version": "1.2.7",
-  "release_date": "2026-09-13",
-  "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.7/AGpos_Setup_v1.2.7.exe",
-  "mandatory": false,
-  "sha256": "7e3057144c0ad86ef66a81882f27709cdfcec90c0cd4f5ab8e02482a434f9c15",
-  "changelog": [
-    "Otomatik yeniden başlatma mimarisi (Supervised watchdog ve postinstall) güçlendirildi.",
-    "Denetim masasından program kaldırılırken uygulamanın açık kalması engellendi (Mutex ve uninstaller koruması)."
-  ],
-  "signature": "X2/+vAZLGxeapjO7smE1Nypxjg2cWQM0V4WHnGjc9IuIdenTwHj8l758Tyt3W13qKK8X77hsDWUc9jvR2o4ns0qhHtZDj8TaKsqt+Zv6uWhxCUPJFQGj9I8pxPIcKaYmRHDnjD0l8avu4PyZ/YViS+b5jVQQtKOgwFynVdhrCvj+pG8Dw5TBO/QkZ8j/BEgbnuf3/PULDUwePUBRl/3Fnx6C6+qeqU7z3Qhlu9SNsoX01KN/HQQOfzQ1iEufK7h6ApgjbPwZ5s9kgCvNPtO5TMYj7En8k2OBkY2gKp6wuugg3fknUiCmCY5ucBRXzD/Cm0C6XDm2WDQNxCdx+QatAA=="
+    "version":  "1.2.7",
+    "release_date":  "2026-09-13",
+    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.7/AGpos_Setup_v1.2.7.exe",
+    "mandatory":  false,
+    "sha256":  "7e3057144c0ad86ef66a81882f27709cdfcec90c0cd4f5ab8e02482a434f9c15",
+    "changelog":  [
+                      "Otomatik yeniden başlatma mimarisi (Supervised watchdog ve postinstall) güçlendirildi.",
+                      "Denetim masasından program kaldırılırken uygulamanın açık kalması engellendi (Mutex ve uninstaller koruması)."
+                  ],
+    "signature":  "fwiGBs6RpKnnXW6BVZ38pu3ou6miaKya1TRwmHPo3wb/N58Iusqva5ozqYRbqHYE9hMvRofIKZ/klGwxtk9Q6QI6I3MfkndylVmqmjt4BIzj7v0ePMZdtO/U5+443FeIiG1PBcf3xkf97yxdt5zMINYpWdEQVy9bRY4LniD6yy+oPP6/7mQDA2P81svWZdBK+2Z4e1W7hvjDkEx3qPZb1NfXYD9gY5kNRecD+eRMefsxTii4k8l/ggcKgzIetlFWZMhFkcVH66LwAyUisbd80fB23yV6NVXgpmdFsey/L4dSrnTm/foq+wsNXWeOw/ELChR42hZJ2eJTU8bbZFmlDA=="
 }
