@@ -1,16 +1,14 @@
 {
-    "version": "1.2.4",
-    "release_date": "2026-09-13",
-    "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.4/AGpos_Setup_v1.2.4.exe",
-    "mandatory": false,
-    "sha256": "1ee08e8555dd45dc90321a9541ed7aeefa7d383f9f1cd1db43953581b969b50a",
-    "changelog": [
-        "AGpos v1.2.4 Güncellemesi",
-        "Satış Fişi Düzenlemeleri: Parçalı ödemede 0 TL tutarlı ödeme kanalları elendi, çift parantez format hatası giderildi.",
-        "Raf Etiketi Modülü: 80mm ve 58mm termal rulo desteği, otomatik metin hizalama (Center/WordWrap) ve ters renk (FillRectangle) fiyat bloğu.",
-        "Güvenlik ve Yönetim: Admin Şifre ve Giriş Güvenliği ile İşlem Denetim ve Log Kayıtları arayüzleri güncellendi.",
-        "Denetim Kütüğü: İşlem Denetim ve Log Kayıtları ekranına 'Hepsi' filtreleme seçeneği eklendi.",
-        "Termal Baskı Standartları: BOM'suz UTF-8 / CP857 kodlama ve kusursuz monospace sütun hizalamaları sağlandı."
-    ],
-    "signature": "dhL0Za545RzZwXEi6L5c2qdZ9DskW5JixwvaUsi1eakezVKbfR0FQlCUa0JrpS8hSXMhbmdhDaSW1Xh/a3lTGoXfvbUV13xtfajlUfYre0S1cP2/HkwM4OdDlCSpONPEa5rfa0rUYf7tUSfCU8hoq12QsbEFhPwLMs3HiEXDJWsR/OGzMrmw5jJlG3i6yVTCorvrq1rvt5gU3M1wXDklFxz9awiyot5guio/tXEYb7rr6Jn9unl9X1i3fITHYP3iL6v82RVf5CpLXBob8zRgnxmRjTANxp306W0KW6Nm+6blJWCefBU3Wfe49LcuAwqs1ThArt7LNamREbybtQCeCQ=="
+    "version":  "1.0.1",
+    "release_date":  "2026-09-13",
+    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.1/AGpos_Setup_v1.0.1.exe",
+    "mandatory":  false,
+    "sha256":  "e9df7c7cba4ab6ad911b96ba9a4f26ef6c706759b572926d19b17f6fced20405",
+    "changelog":  [
+                      "AGpos v1.0.1 Güncellemesi",
+                      "Raf Etiketi Modülü: Bilgilendirme metinleri kaldırıldı ve etiket önizleme alanı büyütüldü.",
+                      "Yazıcı Seçimi: Varsayılan Windows Yazıcısı ilk ve varsayılan seçenek olarak eklendi.",
+                      "Ürün Resimleri: Resimler klasörü oluşturuldu ve ürün kartı görsel ekle butonu doğrudan Resimler klasörünü açacak şekilde ayarlandı."
+                  ],
+    "signature":  "pccWADho1xFeFAdJSy5TkpYWXENekdHZF70AamN0ME7irk8cmbSAmA9K127yW1UsLEjW8Z0BKxB3+/7RQ2+RR8hJo8kNuKK2a6r6PHpz4cw4UR9057Fa1NZIwSYEUv0Y2wzr8nyxn/dSBA9E8Uqvgnmaat28EkRWQbsuR+lm/BJ5jYfmSqEbUGwOGZdeapHRxljqJfHgvKHwOGRWuzIaqSVJ3+GEFZzNeZ4tEi/201mtZoMpagTgxHRA5gulUgV025xWI7pWe8Lpuu7kWf7cIfn/ICuT2dMQDSGhx2FCVOSevoj8+ioOVuHF5972e5fIB5QA+YK13twcb9fanRktSg=="
 }
