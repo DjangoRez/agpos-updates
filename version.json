@@ -3,10 +3,10 @@
   "release_date": "2026-09-13",
   "download_url": "https://github.com/DjangoRez/agpos-updates/releases/download/v1.2.6/AGpos_Setup_v1.2.6.exe",
   "mandatory": false,
-  "sha256": "a6073a8df6cd0b821cb3e6dd6918f5f971a9e37cae6d5a5d67871239d4b53f1d",
+  "sha256": "e08b72058b2a63eaa0452751bdd92feb12dda915eb3e01f08e9ce9c9f3f375bc",
   "changelog": [
-    "Otomatik yeniden başlatma desteği (Silent auto-relaunch)",
-    "İlk kurulum şifre ekranı UI ve seçim düzeltmeleri"
+    "Otomatik yeniden baÅŸlatma desteÄŸi (Silent auto-relaunch)",
+    "Ä°lk kurulum ÅŸifre ekranÄ± UI ve seÃ§im dÃ¼zeltmeleri"
   ],
-  "signature": "ppOObeZRPSEMSmYQP5cALCjwe5/qZHnxZsMr7jJC7KeMT2Ul367CTrd+BvWjBRFjwPPXYQdpzn52uaQmxrBgPSUgcm5gtpXDcX3MMIc9ITL29Rwl8ne1cF3/JkmnSseeMapNbpolUYLbmZ03jUs4F1lRw4QCc+oPnJWjQS3dYihA4k6B0MvaRGN1oD8Tga1EZ+icmVeuy5w+NuOrxkHxYx63fj5ax7TGPF0O4ogeExfe/jnJLc95Unare+tyShufWwRiLB6n7UkuoBEjEdtWbEBy8b/b0iKYSg77qNSYHLwrRHn1DoieeSg61sxfCfcbJh5ngOkLioAJIXyVYraZFA=="
+  "signature": "oLHLSQ1wKSFxGVjgdBZX0vbWkHWb0FGTpa90xgnTGsq8C5bjKR/9Xa3fi5JOQtWEdphPg21L0+gDvqmcPueauOx6qehaq2egtFAj7xWpp9FwaDvCQ0rEmOtaKIT9aHg3eZ5uMHJyfM4zdRB6rE6qdiTnS/HDsGHxTzN3NRBTQLHlxU76k0oTjT4XnthQSmws3Ea2ZeX/Gphd+G/Q4Wge0xDOL6WVkBQCctuqfGPOf9uzbRQO6HMT1I1MOWRkKrqGqXab4l8p4/xv+30A04L6EYowwFqog1Jc2yIXTCI3CUdXgnqgoKZteS8qzDec+1aTB+G/p3bGMYHgY5qIpi/3Cg=="
 }
