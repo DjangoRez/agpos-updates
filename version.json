@@ -1,13 +1,14 @@
 {
-    "version":  "1.3.0",
-    "release_date":  "2026-09-13",
-    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.3.0/AGpos_Setup_v1.3.0.exe",
+    "version":  "1.3.1",
+    "release_date":  "2026-09-14",
+    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.3.1/AGpos_Setup_v1.3.1.exe",
     "mandatory":  false,
-    "sha256":  "9db302fda747cf47a3848d995dda7c3d9730953da9f0a9405cf4b48364a2b32d",
+    "sha256":  "d1ddc9aef7ca2555ec0b7f97be4cb691436cb33283e9fed6c3a425693bb6d00d",
     "changelog":  [
-                      "Modern güncelleme bildirim penceresi (CustomUpdateDialog) Evet/Hayır butonları ve pencere yerleşimi iyileştirildi.",
-                      "Döviz kurları kutularında fare tekerleği ile değer değişimi engeli korundu.",
-                      "Sistem kararlılık, lisans donanım koruması ve güvenlik güncellemeleri tamamlandı."
+                      "Satış fişinde ESC/POS CP857 Türkçe karakter desteği (Ş, İ, Ç, Ğ) ve tam hizalama sağlandı.",
+                      "Raf etiketinde ters renk (siyah zemin / beyaz metin) fiyat kutusu ve 80mm tam genişlik başlık yerleşimi tamamlandı.",
+                      "17.000+ ürünlü veritabanlarında hızlı açılış, SQLite WAL modu ve sorgu optimizasyonları devreye alındı.",
+                      "Sistem kararlılık, veritabanı kilit kurtarma ve performans iyileştirmeleri tamamlandı."
                   ],
-    "signature":  "oSu6EEzUkvQBfOj8bngODHzg1yYTPo6cX56JFgwsH0IyoH3EVIQ4JIFgjNsbWATZC5CqP5Y+MNkGBZC541a5OzoTKlwXj4Y8zZFZvr1q2EKO9pabklhmIUgQqqSKVdKERFkJwgDe3IfJcI4fax71GOIwZ1aXfKLFFsvR6Sp4q8piXVqDojN31Rc98OTsrpSs5Ag2667Ac/Fw5t8Ae3zZ/PU3SM4aDs9zQrAnwTHGVyrSOsFN6o0QOQOYbW87hiQ51YcnZ4HAz9JXVnCu058NWNRSQxgPFTEtOAbhGVI5oyY1ANP2yvSyj3ytfCH743EbqQM1LML4nJv5UaHnhKIVKQ=="
+    "signature":  "YUElNLPfpPjkKcG7D4ILHM8TnUCp4oVmRLEMXoO4nRwvxx7/Gi22x1O49lLXMUm0CiW+ATILURNomxE+OzXe4F+ez5StwGABszcX2jFDxZAiYpwHpCsMKp+7MKtXCBcusyKM7/DZhBL6r/uAaY3IaKa8lD2lcQc7JT32uk+wa8Kg3s4kireKS9GBpyhw9IulEpLdlUzBZmM1eSTELnzVeO1BwPSLYvo067UKdRl3WX/VxgP0hjVG2ctcjEJi8GGRWgcmFUy9yXH45fbJGEkzlctZmugtGfNmrce8YsquwKPFTqyDZnXYrxmtSOcaP9cfXTugNo7pwnuxOcN3Woy5UQ=="
 }
