@@ -3,12 +3,9 @@
     "release_date":  "2026-09-13",
     "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.0.1/AGpos_Setup_v1.0.1.exe",
     "mandatory":  false,
-    "sha256":  "e9df7c7cba4ab6ad911b96ba9a4f26ef6c706759b572926d19b17f6fced20405",
+    "sha256":  "aeecb44ad913bbc4990ce688912b034af8bde579e57c53c990c184c6e7630733",
     "changelog":  [
-                      "AGpos v1.0.1 Güncellemesi",
-                      "Raf Etiketi Modülü: Bilgilendirme metinleri kaldırıldı ve etiket önizleme alanı büyütüldü.",
-                      "Yazıcı Seçimi: Varsayılan Windows Yazıcısı ilk ve varsayılan seçenek olarak eklendi.",
-                      "Ürün Resimleri: Resimler klasörü oluşturuldu ve ürün kartı görsel ekle butonu doğrudan Resimler klasörünü açacak şekilde ayarlandı."
+                      "TEST GÜNCELLEMESİDİR."
                   ],
-    "signature":  "pccWADho1xFeFAdJSy5TkpYWXENekdHZF70AamN0ME7irk8cmbSAmA9K127yW1UsLEjW8Z0BKxB3+/7RQ2+RR8hJo8kNuKK2a6r6PHpz4cw4UR9057Fa1NZIwSYEUv0Y2wzr8nyxn/dSBA9E8Uqvgnmaat28EkRWQbsuR+lm/BJ5jYfmSqEbUGwOGZdeapHRxljqJfHgvKHwOGRWuzIaqSVJ3+GEFZzNeZ4tEi/201mtZoMpagTgxHRA5gulUgV025xWI7pWe8Lpuu7kWf7cIfn/ICuT2dMQDSGhx2FCVOSevoj8+ioOVuHF5972e5fIB5QA+YK13twcb9fanRktSg=="
+    "signature":  "RZbjN+lk9w0gb+4MlTO3WqhyQjQvNzQMM5oYVqHebhCtb6jNQ4NgVv6NnpSqGf8/ZkOEA2akjXTyTKZuHW7QxGzK3HSXLV4b85SAOKDzY9X1fs6J9BfcvHWoJAayVEzUCaeiy2VKv8UcoqrXMOOQq8IMUJlHbTeseoBN4KDroSKTxsh9qQ3t+4GEKol4m+yatOleb9TdmNyeBUbZ/z5Bf+TXxiUFbZEshbLmYSeisn4MyVDGmKT9vYZR5gF5jKa7g5xWyTRvLB6iBYMqQd5ZiCGAyaT/JNvdp94PyMO/7JnF4CD+9e+ywuH6M8QT7Jcq20EMwtMz0PZOjpLysHktGQ=="
 }
