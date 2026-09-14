@@ -1,16 +1,15 @@
 {
-    "version":  "1.3.1",
+    "version":  "1.3.2",
     "release_date":  "2026-09-14",
-    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.3.1/AGpos_Setup_v1.3.1.exe",
+    "download_url":  "https://github.com/DjangoRez/agpos-updates/releases/download/v1.3.2/AGpos_Setup_v1.3.2.exe",
     "mandatory":  false,
-    "sha256":  "c8e5fba499641971ce506d4733aed9436b4fe091abd9a5e7a5412fcbf1fe5f22",
+    "sha256":  "c55b4b9c957b8af8162aa1f534aa2c53a672998488a1fba590f3dd612b4eb19f",
     "changelog":  [
-                      "Satış fişinde ESC/POS CP857 Türkçe karakter desteği (Ş, İ, Ç, Ğ) ve tam hizalama sağlandı.",
-                      "Raf etiketinde ters renk (siyah zemin / beyaz metin) fiyat kutusu ve 80mm tam genişlik başlık yerleşimi tamamlandı.",
-                      "Raf etiketi modülünde buton yerleşimi ve ölçekleme dengelendi.",
-                      "Para çekmecesi donanımsal sensör (ESC/POS DLE EOT) durum takibi ve fiziksel kapanış kontrolü sağlandı.",
-                      "Yüksek hacimli veritabanlarında hızlı açılış, SQLite WAL modu ve sorgu optimizasyonları devreye alındı.",
-                      "Sistem kararlılık, veritabanı kilit kurtarma ve performans iyileştirmeleri tamamlandı."
+                      "Windows 7 ve eski sistemlerde güncelleme sunucusu sertifika ve TLS 1.2/1.1/1.0 doğrulama uyumluluğu sağlandı.",
+                      "Satış, fatura, ürün ve cari ekranı veri tablolarında sonsuz döngü ve kilitlenmeleri önleyici DataError koruması eklendi.",
+                      "Arka plan işlemleri (BackgroundWorker) tamamlanma kontrollerine form yaşam döngüsü emniyeti uygulandı.",
+                      "Raf etiketi yazdırma penceresinde buton yerleşimi ve aralıkları dengelendi, alt kenardan kesilme giderildi.",
+                      "Yeni Ürün Tanımla ekranı yatay/dikey form düzeni optimize edildi, gereksiz kaydırma çubuğu kaldırıldı."
                   ],
-    "signature":  "aMJwWwrMs09MZQkqDgkSDRSemUGxZL3et/gKj8BW77zYeQlcURI48yz11fpNMu8+xWAwdfnD9VE/j+xZ1h2fO/ohLLaL1vZMZXmjHwUJEi+dz1QUgVzgin2xJfXxXWWxa0nOdDUg3swY9Dp6dl9GQjAiDr2rwwz/ZBAr+veuLv97Y0qzULyLUIbFKruUvKTguWRhWb7VeoGyp3ACDlBKi5PbkSxVL5XUx3ctFKXAjYih8nrdHGfTEVWSfUaCo+qZHEnHN1ztwS8NOThr6sVcwnHZRh330/u7ZRS09Ck7UT4ZRXhugzHGOuaCJ3IZn3yU1KP11heq4W91sucsZkZAKw=="
+    "signature":  "oHkOgShLK2CDCT5Tfv9MNz5ihGG/E2QGu0STtl1wV+COpmOqyKJwlGKFkNJ42cnrXq6aRCzH5WRwX0hzQcyzQnVT8bHpR74CJllR1fFTjY+t6Gmu91xiLFAZkUDlevllabRQqoHofe72TQVgYJvu+86PDbI/YmVc6gKTbomq52bqXm2kWI307TCL13r8AAfuRTx5vANMEDRwWH8NCuKamMlYQ5Wpyqj/ioJhiVnBXBS741Swq+94X0J6luqf+S0CmhGQKRWgZRrx9yj1rQKAH2R4lvGF08HS1ykQ+L7uFRMk11SkI4ISkQOPB7wBD1GYOyIw5JsGFgRvT3rAgMgj+g=="
 }
